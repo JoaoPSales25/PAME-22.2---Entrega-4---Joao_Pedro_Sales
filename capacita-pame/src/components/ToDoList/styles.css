@@ -1,0 +1,8 @@
+.container {
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: flex-start;
+  align-items: center;
+}
